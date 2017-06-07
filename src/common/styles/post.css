@@ -1,0 +1,24 @@
+/*
+ * POST component
+ */
+.post-content {
+  font-size: 16px;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+.post-content h3 {
+  color: #bc7c3c;
+}
+.post-content time {
+  color: #8d8d8d;
+  font-size: 12px;
+}
+.blogText {
+  padding: 25px 0 20px 0;
+  border-top: dotted 1px #555;
+  border-bottom: dotted 1px #555;
+  margin-top: 10px;
+}
+.blogText div img {
+  width: 100%;
+}
