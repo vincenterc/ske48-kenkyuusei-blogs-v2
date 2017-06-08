@@ -11,5 +11,8 @@ node_modules/
 # dotenv environment variables file
 .env
 
+# vscode
+.vscode
+
 # misc
 yarn.lock
