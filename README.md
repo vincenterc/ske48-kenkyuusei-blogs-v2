@@ -1,4 +1,4 @@
-# ske48-kenkyuusei-blogs
+# ske48-kenkyuusei-blogs-v2
 
 The source code of the website: [SKE48 Kenkyuusei BLogs][].
 This version is rewrite the [v1][] with react, redux, and universalJS:
