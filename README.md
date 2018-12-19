@@ -1,6 +1,6 @@
 # ske48-kenkyuusei-blogs-v2
 
-The source code of the website: [SKE48 Kenkyuusei BLogs][].
+The source code of the website: [SKE48 Kenkyuusei Blogs][].
 This version is rewrite the [v1][] with react, redux, and universalJS:
 * frontend: react and redux  
 * backend: koa framework 
